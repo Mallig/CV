@@ -1,6 +1,8 @@
-## Your Name
+## Malachy Gilchrist
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a full-stack developer interested in creating software that can help people while also being enjoyable to use. I want to use the power of data to aid planning and decision making at an individual level. Ultimately my intentions are to communicate relevant information to people through an interactive medium, allowing flexibility in actions supported by reasonable arguments. I have recently passed through Makers software development bootcamp, before which I was studying Mechanical Engineeering at Heriot Watt University where I recieved a bachelors degree. I enjoy learning and am exited for the unkowns working as a software developer will expose me to, I'm looking for somewhere offering opportunities to learn and encouraging self learning. 
+
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
