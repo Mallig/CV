@@ -23,9 +23,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Projects
+
+#### Makers
+
+#### Personal
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2018 to October 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,13 +42,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Heriot-Watt University (September 2012 to July 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Mechanical Engineering. 
+- BEng
 
 ## Experience
 
