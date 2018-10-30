@@ -27,7 +27,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers
 
+|Project|Summary|Tech|Time|
+|-------|-------|----|----|
+
+
 #### Personal
+
+|Project|Summary|Tech|Time|
+|-------|-------|----|----|
 
 ## Education
 
