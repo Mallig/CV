@@ -1,6 +1,6 @@
 ## Malachy Gilchrist
 
-I am a full-stack developer recently passed through Makers software development bootcamp, before which I was studying Mechanical Engineeering at Heriot Watt University where I received a bachelors degree. I enjoy learning and am excited for the unknowns that working as a software developer will expose me to. I'm currently focused on understanding how to display quantitative information in forms that engage the viewer, encouraging them to ask questions. I hope to be able to build interfaces around these displays which enable the viewer to have those questions answered and give rise to new questions. This intentionally sounds like the dynamic between teacher and student, however in a classroom the feedback loop between question and answer is much tighter.
+I am a full-stack developer recently passed through Makers software development bootcamp, before which I was studying Mechanical Engineeering at Heriot Watt University where I received a bachelors degree. I enjoy learning and am excited for the unknowns that working as a software developer will expose me to. I'm currently focused on understanding how to display quantitative information in forms that engage the viewer, encouraging them to ask questions. I hope to be able to build interfaces around these displays which enable the viewer to have those questions answered and give rise to new questions.
 
 ## Skills
 
@@ -10,8 +10,8 @@ The opportunity for problem solving was a big part of what attracted me to an En
 
 #### Personable
 
-I am a very easygoing and open minded person, I always try and make time for others when they need help. I understand when working with others that they have a different perspective to me, not being able to communicate or accept these perspectives limits your output as a team to what you can agree on. I enjoy working with others as it's an opportunity to see from their perspective, widening my own in the process. I've really enjoyed pair programming while at Makers, other students found pairing with me an enjoyable experience and I have been told I have a very patient demeanor suited to teaching. During my gap year I spent some time working at a safari where I accompanied guests on some of their outings. 
-
+I am a very easygoing and open minded person, I always try and make time for others when they need help. I enjoy working with others as it's an opportunity to see from their perspective, widening my own in the process. I've really enjoyed pair programming while at Makers, other students found pairing with me an enjoyable experience and I have been told I have a very patient demeanor suited to teaching. 
+ 
 #### Curious
 
 
