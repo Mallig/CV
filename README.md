@@ -10,11 +10,7 @@ The opportunity for problem solving was a big part of what attracted me to an En
 
 #### Personable
 
-I am a very easygoing and open minded person, I always try and make time for others when they need help. I enjoy working with others as it's an opportunity to see from their perspective, widening my own in the process. I've really enjoyed pair programming while at Makers, other students found pairing with me an enjoyable experience and I have been told I have a very patient demeanor suited to teaching. 
- 
-#### Curious
-
-
+I am a very easygoing and open minded person, I always try and make time for others when they need help. I enjoy working with others as it's an opportunity to see from their perspective, widening my own in the process. I've really enjoyed pair programming while at Makers, other students found pairing with me an enjoyable experience and I have been told I have a very patient demeanor suited to teaching.
 
 ## Projects
 
